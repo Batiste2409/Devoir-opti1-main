@@ -1,0 +1,29 @@
+{ 
+    "projects" :[
+        {   "title": "Produits frait",
+            "description": "Site de vente de produits frais en ligne",
+            "techno": "Site réalisé avec PHP et mySQL",
+            "picture": ""
+        },
+        {   "title": "Restaurant Akira",
+            "description": "Restaurant Japonnais",
+            "techno": "Site réalisé avec PHP et mySQL",
+            "picture": ""
+        },
+        {   "title": "Espace bien etre",
+            "description": "Espace Bien être",
+            "techno": "Site réalisé avec PHP et mySQL",
+            "picture": "https://i.goopics.net/89fsqa.jpg"
+        },
+        {   "title": "Codage",
+            "description": "Code",
+            "techno": "Site réalisé avec PHP et mySQL",
+            "picture": "vite-project/src/assets/img/coder.jpg"
+        },
+        {   "title": "Sushi",
+            "description": "Sushi",
+            "techno": "Site réalisé avec PHP et mySQL",
+            "picture": "https://i.goopics.net/r7239i.jpg"
+        }
+    ]
+}
