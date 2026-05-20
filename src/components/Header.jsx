@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { Link } from "react-router-dom";
 
 function Header() {
@@ -30,3 +31,11 @@ function Header() {
 }
 
 export default Header;
+=======
+function Header(){
+    return (
+        <h1 className="underline">zaza</h1>
+    )
+}
+export default Header 
+>>>>>>> e05feae95adc8894708ea4f242fa94729ad37c4f
