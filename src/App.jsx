@@ -3,7 +3,6 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import NotFound from "./pages/NotFound";
 import Header from "./components/Header";
-import Home from "./pages/Home";
 // import ("./app.css");
 
 function App() {
