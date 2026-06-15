@@ -13,31 +13,20 @@
     "@tailwindcss/vite": "^4.1.13",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-<<<<<<< HEAD
     "react-router-dom": "^7.15.1"
-=======
-    "react-router-dom": "^7.9.2",
     "tailwindcss": "^4.1.13"
->>>>>>> e05feae95adc8894708ea4f242fa94729ad37c4f
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
     "@types/react": "^19.1.13",
     "@types/react-dom": "^19.1.9",
     "@vitejs/plugin-react": "^5.0.3",
-<<<<<<< HEAD
     "autoprefixer": "^10.5.0",
-=======
->>>>>>> e05feae95adc8894708ea4f242fa94729ad37c4f
     "eslint": "^9.36.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.4.0",
-<<<<<<< HEAD
     "postcss": "^8.5.15",
-    "tailwindcss": "^4.3.0",
-=======
->>>>>>> e05feae95adc8894708ea4f242fa94729ad37c4f
     "vite": "^7.1.7"
   }
 }
